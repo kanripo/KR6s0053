@@ -1,0 +1,6 @@
+001-1321a00	T 001-1321a	buddhist/T-taisho/T85/13/T85-1321.png
+001-1321b00	T 001-1321b	buddhist/T-taisho/T85/13/T85-1321.png
+001-1321c00	T 001-1321c	buddhist/T-taisho/T85/13/T85-1321.png
+001-1322a00	T 001-1322a	buddhist/T-taisho/T85/13/T85-1322.png
+001-1322b00	T 001-1322b	buddhist/T-taisho/T85/13/T85-1322.png
+001-1322c00	T 001-1322c	buddhist/T-taisho/T85/13/T85-1322.png
